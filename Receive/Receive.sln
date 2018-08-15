@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Receive", "Receive.csproj", "{540E07F6-2E9C-4C41-8227-C98E83A3A4FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitTestReceive", "..\XUnitTestReceive\XUnitTestReceive.csproj", "{0C0CDC4A-F07B-473C-AC6E-0A834A12BC7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540E07F6-2E9C-4C41-8227-C98E83A3A4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540E07F6-2E9C-4C41-8227-C98E83A3A4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540E07F6-2E9C-4C41-8227-C98E83A3A4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540E07F6-2E9C-4C41-8227-C98E83A3A4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0CDC4A-F07B-473C-AC6E-0A834A12BC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0CDC4A-F07B-473C-AC6E-0A834A12BC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0CDC4A-F07B-473C-AC6E-0A834A12BC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0CDC4A-F07B-473C-AC6E-0A834A12BC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA6DC7C8-56FD-4866-9184-AF74F57A6E3D}
+	EndGlobalSection
+EndGlobal

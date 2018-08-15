@@ -1,0 +1,12 @@
+C:\Microservices\Receive\bin\Release\netcoreapp2.1\appsettings.json
+C:\Microservices\Receive\bin\Release\netcoreapp2.1\Receive.deps.json
+C:\Microservices\Receive\bin\Release\netcoreapp2.1\Receive.runtimeconfig.json
+C:\Microservices\Receive\bin\Release\netcoreapp2.1\Receive.runtimeconfig.dev.json
+C:\Microservices\Receive\bin\Release\netcoreapp2.1\Receive.dll
+C:\Microservices\Receive\bin\Release\netcoreapp2.1\Receive.pdb
+C:\Microservices\Receive\obj\Release\netcoreapp2.1\Receive.csprojAssemblyReference.cache
+C:\Microservices\Receive\obj\Release\netcoreapp2.1\Receive.csproj.CoreCompileInputs.cache
+C:\Microservices\Receive\obj\Release\netcoreapp2.1\Receive.AssemblyInfoInputs.cache
+C:\Microservices\Receive\obj\Release\netcoreapp2.1\Receive.AssemblyInfo.cs
+C:\Microservices\Receive\obj\Release\netcoreapp2.1\Receive.dll
+C:\Microservices\Receive\obj\Release\netcoreapp2.1\Receive.pdb

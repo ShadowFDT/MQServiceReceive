@@ -1,0 +1,11 @@
+C:\Receive\bin\BNB\Debug\netcoreapp2.1\Receive.deps.json
+C:\Receive\bin\BNB\Debug\netcoreapp2.1\Receive.runtimeconfig.json
+C:\Receive\bin\BNB\Debug\netcoreapp2.1\Receive.runtimeconfig.dev.json
+C:\Receive\bin\BNB\Debug\netcoreapp2.1\Receive.dll
+C:\Receive\bin\BNB\Debug\netcoreapp2.1\Receive.pdb
+C:\Receive\obj\BNB\Debug\netcoreapp2.1\Receive.csprojAssemblyReference.cache
+C:\Receive\obj\BNB\Debug\netcoreapp2.1\Receive.csproj.CoreCompileInputs.cache
+C:\Receive\obj\BNB\Debug\netcoreapp2.1\Receive.AssemblyInfoInputs.cache
+C:\Receive\obj\BNB\Debug\netcoreapp2.1\Receive.AssemblyInfo.cs
+C:\Receive\obj\BNB\Debug\netcoreapp2.1\Receive.dll
+C:\Receive\obj\BNB\Debug\netcoreapp2.1\Receive.pdb
